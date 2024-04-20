@@ -1,0 +1,8 @@
+body{background-color: rgb(182, 182, 253);}
+
+.image-container{ width: auto;}
+.image-container img{ width: 300px;
+position: absolute;
+border: solid 5px white;
+
+}
